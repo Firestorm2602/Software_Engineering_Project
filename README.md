@@ -1,17 +1,15 @@
-# MERN Stack - Build a social media app 
-> MERN Stack Build  a social media app (instagram , facebook, twitter clone) with MERN  + Redux  + Bootstrap 4
+# Team Up!  
+> MERN Stack 
 
-## Author: Dev A.T Viet Nam
 
-## Youtube tutorials: https://www.youtube.com/watch?v=DLtVKgkCKx8&list=PLs4co9a6NhMyAfSnDg1MKGwLdLx0OA07d
+
+
 
 ## Install dependencies for server 
 ### `npm install`
 
 ## Install dependencies for client
 ### cd client ---> `npm install`
-
-## Connect to your mongodb and add info in .env
 
 ## Run the client & server with concurrently
 ### `npm run dev`
