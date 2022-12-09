@@ -1,7 +1,7 @@
 # Team Up!  
 > MERN Stack 
 
-## Screenshots
+## Screenshot
 ![Homepage](https://github.com/Firestorm2602/Software_Engineering_Project/blob/main/SS/Homepage.jpg?raw=true)
 
 ## Install dependencies for server 
